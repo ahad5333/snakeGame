@@ -1,4 +1,4 @@
-
+Absolutely! Here’s the **complete `README.md`** in one single block, ready to copy and paste as-is into GitHub:
 
 ```markdown
 # 🐍 Snake Game (Python Turtle)
@@ -97,10 +97,6 @@ No external dependencies are needed!
 
 ---
 
-## 🖼️ Screenshot (Optional)
-
-*(Add your own later)*
-![Snake Game Screenshot](assets/snake-game-demo.png)
 
 ---
 
@@ -132,5 +128,7 @@ This project is open-source and available under the **MIT License**.
 
 ```
 
----
+This is all in **one file** — no extra breaks or code blocks needed.  
+
+If you want, I can also **add GitHub badges** like Python version, License, and “Made with ❤️” to make it look more professional. Do you want me to do that?
 ```
