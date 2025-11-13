@@ -1,4 +1,3 @@
-Absolutely! Here’s the **complete `README.md`** in one single block, ready to copy and paste as-is into GitHub:
 
 ```markdown
 # 🐍 Snake Game (Python Turtle)
